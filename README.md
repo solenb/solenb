@@ -1,20 +1,30 @@
 ### Hi! 👋 
 
-This is the heart of everything that I know and I like to share with each person who comes here, always aware of new technologies, learning and teaching with practical exercises through my channel on YouTube and Facebook, I am passionate about what I do, If you have questions on any subject, send me a message on any of my networks, rest assured that if I don't know how to solve your problem, I will help find the solution.
+I work as a Infastructure Manager 💻🤓.
 
-I work as a Full Stack Developer 💻🤓.
+- 👨🏽‍💻 &nbsp; You can ask me about: `Ansible, Docker, Linux, Virtualization, Server management , Security`.
+- 📖 &nbsp; I'm learnig: `English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 , Containers 🐳, Python 🐍, Active Directory, and more` 
 
-- 👨🏽‍💻 &nbsp; You can ask me about: `MongoDB, JavaScript, Firebase, React, Flutter, NodeJS, TypeScript`.
-- 📖 &nbsp; I'm learnig: `English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ,  Containers 🐳, Virtualization  <- it's a cloud, Python 🐍` 
-
-[![SOlenb's github stats][]https://github-readme-stats.vercel.app/api?username=solenb&count_private=true&show_icons=true](https://github.com/solenb)
+[![SOlenb's github stats] (https://github-readme-stats.vercel.app/api?username=solenb&count_private=true&show_icons=true)](https://github.com/solenb)
 </br>
 
 
 ## Skils 
-[![](https://img.shields.io/badge/aws-e16133?style=for-the-badge&logo=amazon&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/docker-022D66?style=for-the-badge&logo=docker&logoColor=22272E&labelColor=f0f0f0)](https://aws.amazon.com/)
 
+[![](https://img.shields.io/badge/Cisco-00bceb?style=for-the-badge&logo=cisco&logoColor=22272E&labelColor=f0f0f0)(https://www.cisco.com/)
+[![](https://img.shields.io/badge/Stormshield-007bc9?style=for-the-badge&logo=stormshield&logoColor=22272E&labelColor=f0f0f0)(https://www.stormshield.com/)
+[![](https://img.shields.io/badge/Proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=22272E&labelColor=f0f0f0)(https://proxmox.com)
+[![](https://img.shields.io/badge/Archlinux-0f94d2?style=for-the-badge&logo=archlinux&logoColor=22272E&labelColor=f0f0f0)(https://archlinux.org)
+[![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=22272E&labelColor=f0f0f0)(htts://ansible.com)
+[![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=22272E&labelColor=f0f0f0)(https://github.com/solenb)
+[![](https://img.shields.io/badge/AWS-ec912d?style=for-the-badge&logo=amazon&logoColor=22272E&labelColor=f0f0f0)(https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=22272E&labelColor=f0f0f0)(https://www.docker.com/)
+
+
+
+
+[![]()()
+[![]()()
 ## Soft Skils 
 ![](https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge)
 ![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
