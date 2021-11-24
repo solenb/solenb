@@ -5,7 +5,7 @@ I work as a Infastructure Manager 💻🤓.
 - 👨🏽‍💻 &nbsp; You can ask me about: `Ansible, Docker, Linux, Virtualization, Server management , Security`.
 - 📖 &nbsp; I'm learnig: `English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 , Containers 🐳, Python 🐍, Active Directory, and more` 
 
-[![SOlenb's github stats] (https://github-readme-stats.vercel.app/api?username=solenb&count_private=true&show_icons=true)](https://github.com/solenb)
+[![Solenb's github stats] (https://github-readme-stats.vercel.app/api?username=solenb&count_private=true&show_icons=true&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&hide_border=true)](https://github.com/solenb)
 </br>
 
 
