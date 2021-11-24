@@ -40,6 +40,6 @@ I work as a Infastructure Manager 💻🤓.
 
 ## Find me on
 
-[![Linkedin](https://www.linkedin.com/in/solen-bellouati/)]
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=22272E&labelColor=f0f0f0)](https://www.linkedin.com/in/solen-bellouati/)
 
 
